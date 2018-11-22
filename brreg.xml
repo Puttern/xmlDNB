@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<resources xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet.xml?page=0&size=30&$filter=" rel="self"/>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet.xml?page=1&size=30&$filter=" rel="next"/>
+<data>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/921675054" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Nordteigåsen 8</adresse>
+<kommune>HARSTAD</kommune>
+<kommunenummer>1903</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>9415</postnummer>
+<poststed>HARSTAD</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<navn>DALLAGER EIENDOM AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>921675054</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-11-06</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2018-10-24</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/920867960" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Fjukvegen 182</adresse>
+<kommune>SØRUM</kommune>
+<kommunenummer>0226</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>1925</postnummer>
+<poststed>BLAKER</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Annen teknisk konsulentvirksomhet</beskrivelse>
+<kode>71.129</kode>
+</naeringskode1>
+<navn>NICLAS MOEN</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>920867960</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-05-18</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/960119371" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Selnesvegen 329</adresse>
+<kommune>NAMSOS</kommune>
+<kommunenummer>5005</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>7822</postnummer>
+<poststed>BANGSUND</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Undervisning i kunstfag</beskrivelse>
+<kode>85.522</kode>
+</naeringskode1>
+<navn>TRADISJON Håvard Fjell</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>960119371</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>1995-02-20</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/920868053" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Ildervegen 4</adresse>
+<kommune>ELVERUM</kommune>
+<kommunenummer>0427</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>2406</postnummer>
+<poststed>ELVERUM</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Private aksjeselskaper mv.</beskrivelse>
+<kode>2100</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Engroshandel med metaller og metallholdig malm</beskrivelse>
+<kode>46.720</kode>
+</naeringskode1>
+<navn>INTERSPOT AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>920868053</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-05-28</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2018-04-11</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/920868088" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Grønnliveien 10B</adresse>
+<kommune>RØYKEN</kommune>
+<kommunenummer>0627</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>3474</postnummer>
+<poststed>ÅROS</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Annen spesialisert bygge- og anleggsvirksomhet</beskrivelse>
+<kode>43.990</kode>
+</naeringskode1>
+<navn>OPPUSSING SPESIALISTEN PIOTR BURDZIUK</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>920868088</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-05-18</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/920868029" rel="self"/>
+<antallAnsatte>2</antallAnsatte>
+<forretningsadresse>
+<adresse>Gamle Riksvei 162A</adresse>
+<kommune>NEDRE EIKER</kommune>
+<kommunenummer>0625</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>3058</postnummer>
+<poststed>SOLBERGMOEN</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Private aksjeselskaper mv.</beskrivelse>
+<kode>2100</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Cateringvirksomhet</beskrivelse>
+<kode>56.210</kode>
+</naeringskode1>
+<navn>BAKELAND YAKUT AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>920868029</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-05-18</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2018-04-19</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/997663357" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Bygdøy allé 33B</adresse>
+<kommune>OSLO</kommune>
+<kommunenummer>0301</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>0262</postnummer>
+<poststed>OSLO</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Private aksjeselskaper mv.</beskrivelse>
+<kode>2100</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Bedriftsrådgivning og annen administrativ rådgivning</beskrivelse>
+<kode>70.220</kode>
+</naeringskode1>
+<navn>FENIX INVEST AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>997663357</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<postadresse>
+<adresse>c/o Alireza Fathymehr Bygdøy allé 33B</adresse>
+<kommune>OSLO</kommune>
+<kommunenummer>0301</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>0262</postnummer>
+<poststed>OSLO</poststed>
+</postadresse>
+<registreringsdatoEnhetsregisteret>2011-11-30</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<sisteInnsendteAarsregnskap>2017</sisteInnsendteAarsregnskap>
+<stiftelsesdato>2011-11-01</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/920868010" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Lelighet 1106 Lørenvangen 46</adresse>
+<kommune>OSLO</kommune>
+<kommunenummer>0301</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>0585</postnummer>
+<poststed>OSLO</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Allmenn legetjeneste</beskrivelse>
+<kode>86.211</kode>
+</naeringskode1>
+<navn>ESHETU ALEMNEW WUBETIE</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>920868010</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-05-18</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/816844142" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<kommune>FROSTA</kommune>
+<kommunenummer>5036</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>7633</postnummer>
+<poststed>FROSTA</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Øvrige finansielle foretak unntatt forsikring</beskrivelse>
+<kode>4900</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Investeringsselskaper og lignende lukket for allmennheten</beskrivelse>
+<kode>64.308</kode>
+</naeringskode1>
+<navn>B&S SKOGLY AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>816844142</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2016-03-04</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<sisteInnsendteAarsregnskap>2017</sisteInnsendteAarsregnskap>
+<stiftelsesdato>2016-02-19</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/817540112" rel="self"/>
+<antallAnsatte>3</antallAnsatte>
+<forretningsadresse>
+<kommune>ÅFJORD</kommune>
+<kommunenummer>5018</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>7170</postnummer>
+<poststed>ÅFJORD</poststed>
+</forretningsadresse>
+<frivilligRegistrertIMvaregisteret>Utleier av bygg eller anlegg</frivilligRegistrertIMvaregisteret>
+<institusjonellSektorkode>
+<beskrivelse>Private aksjeselskaper mv.</beskrivelse>
+<kode>2100</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Utleie av egen eller leid fast eiendom ellers</beskrivelse>
+<kode>68.209</kode>
+</naeringskode1>
+<navn>ÅRNES HANDEL EIENDOM AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>817540112</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>1995-02-19</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<sisteInnsendteAarsregnskap>2017</sisteInnsendteAarsregnskap>
+<stiftelsesdato>1969-07-01</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/818056672" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<kommune>OSLO</kommune>
+<kommunenummer>0301</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>1281</postnummer>
+<poststed>OSLO</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Selvstendig kunstnerisk virksomhet innen musikk</beskrivelse>
+<kode>90.032</kode>
+</naeringskode1>
+<navn>BEATRIIXX NASRA ARTAN</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>818056672</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2016-11-15</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819036012" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Wedel Jarlsbergs vei 14</adresse>
+<kommune>BÆRUM</kommune>
+<kommunenummer>0219</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>1358</postnummer>
+<poststed>JAR</poststed>
+</forretningsadresse>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<navn>AKEBAKKEN 19-31 HOLTARDALEN</navn>
+<organisasjonsform>ESEK</organisasjonsform>
+<organisasjonsnummer>819036012</organisasjonsnummer>
+<orgform>
+<beskrivelse>Eierseksjonssameie</beskrivelse>
+<kode>ESEK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-07-06</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2014-01-28</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819228132" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Vik</adresse>
+<kommune>HADSEL</kommune>
+<kommunenummer>1866</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>8450</postnummer>
+<poststed>STOKMARKNES</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Øvrige finansielle foretak unntatt forsikring</beskrivelse>
+<kode>4900</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Investeringsselskaper og lignende lukket for allmennheten</beskrivelse>
+<kode>64.308</kode>
+</naeringskode1>
+<navn>RABIAT AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>819228132</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-07-03</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<sisteInnsendteAarsregnskap>2017</sisteInnsendteAarsregnskap>
+<stiftelsesdato>2017-06-16</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819355142" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Odins gate 17</adresse>
+<kommune>OSLO</kommune>
+<kommunenummer>0301</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>0266</postnummer>
+<poststed>OSLO</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Allmenn legetjeneste</beskrivelse>
+<kode>86.211</kode>
+</naeringskode1>
+<navn>LEGE ERLEND AABEL</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>819355142</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-07-31</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819344922" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Fredensborgveien 125</adresse>
+<kommune>BODØ</kommune>
+<kommunenummer>1804</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>8005</postnummer>
+<poststed>BODØ</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Allmenn legetjeneste</beskrivelse>
+<kode>86.211</kode>
+</naeringskode1>
+<navn>KRISTINE VOLD</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>819344922</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-07-27</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819611572" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Torsetvegen 247</adresse>
+<kommune>HEMSEDAL</kommune>
+<kommunenummer>0618</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>3560</postnummer>
+<poststed>HEMSEDAL</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<navn>AGRI DEVELOPMENT INTERNATIONAL NICHOLAS CRICHTON</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>819611572</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-11-16</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819592012" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>c/o SAP Norge AS Lysaker torg 5</adresse>
+<kommune>BÆRUM</kommune>
+<kommunenummer>0219</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>1366</postnummer>
+<poststed>LYSAKER</poststed>
+</forretningsadresse>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Utleie av arbeidskraft</beskrivelse>
+<kode>78.200</kode>
+</naeringskode1>
+<navn>SAP CZECH REPUBLIC</navn>
+<organisasjonsform>NUF</organisasjonsform>
+<organisasjonsnummer>819592012</organisasjonsnummer>
+<orgform>
+<beskrivelse>Norskregistrert utenlandsk foretak</beskrivelse>
+<kode>NUF</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-05-23</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819687072" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<kommune>RØMSKOG</kommune>
+<kommunenummer>0121</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>1950</postnummer>
+<poststed>RØMSKOG</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Ideelle organisasjoner</beskrivelse>
+<kode>7000</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Aktiviteter i andre interesseorganisasjoner ikke nevnt annet sted</beskrivelse>
+<kode>94.991</kode>
+</naeringskode1>
+<navn>STØTTEFORENINGEN VED RØMSKOG ELDRESENTER</navn>
+<organisasjonsform>FLI</organisasjonsform>
+<organisasjonsnummer>819687072</organisasjonsnummer>
+<orgform>
+<beskrivelse>Forening/lag/innretning</beskrivelse>
+<kode>FLI</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-05-30</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2011-03-07</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819870152" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>v/Lars Øystein Kleppe Haugøyvegen 8</adresse>
+<kommune>VÅGÅ</kommune>
+<kommunenummer>0515</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>2680</postnummer>
+<poststed>VÅGÅ</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Ideelle organisasjoner</beskrivelse>
+<kode>7000</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Aktiviteter i andre interesseorganisasjoner ikke nevnt annet sted</beskrivelse>
+<kode>94.991</kode>
+</naeringskode1>
+<navn>HAUGØYJORDET VELFORENING</navn>
+<organisasjonsform>FLI</organisasjonsform>
+<organisasjonsnummer>819870152</organisasjonsnummer>
+<orgform>
+<beskrivelse>Forening/lag/innretning</beskrivelse>
+<kode>FLI</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-08-21</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>J</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2000-04-11</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819905452" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<kommune>VÅGSØY</kommune>
+<kommunenummer>1439</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>6710</postnummer>
+<poststed>RAUDEBERG</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Private aksjeselskaper mv.</beskrivelse>
+<kode>2100</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Butikkhandel med klær</beskrivelse>
+<kode>47.710</kode>
+</naeringskode1>
+<navn>RAUDEBERG MØBEL AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>819905452</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-11-14</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2017-10-19</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819981582" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Haugageilen 17</adresse>
+<kommune>SEL</kommune>
+<kommunenummer>0517</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>2672</postnummer>
+<poststed>SEL</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Opplevelses-, arrangements- og aktivitetsarrangørvirksomhet</beskrivelse>
+<kode>79.903</kode>
+</naeringskode1>
+<navn>HUSOM EVENT</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>819981582</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<postadresse>
+<adresse>Trondheimsvegen 9</adresse>
+<kommune>DOVRE</kommune>
+<kommunenummer>0511</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>2660</postnummer>
+<poststed>DOMBÅS</poststed>
+</postadresse>
+<registreringsdatoEnhetsregisteret>2017-11-28</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/819984182" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Andreasmoen 4</adresse>
+<kommune>SAUDA</kommune>
+<kommunenummer>1135</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>4200</postnummer>
+<poststed>SAUDA</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Kombinerte kontortjenester</beskrivelse>
+<kode>82.110</kode>
+</naeringskode1>
+<navn>HELEN DJUVIK</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>819984182</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-11-28</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820134532" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Brennejordet 25</adresse>
+<kommune>BÆRUM</kommune>
+<kommunenummer>0219</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>1339</postnummer>
+<poststed>VØYENENGA</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Spesialisert legetjeneste, unntatt psykiatrisk legetjeneste</beskrivelse>
+<kode>86.221</kode>
+</naeringskode1>
+<navn>EINFRID ÅM HOLEN</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>820134532</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-12-15</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820148592" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Svingen 9</adresse>
+<kommune>OSLO</kommune>
+<kommunenummer>0301</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>0196</postnummer>
+<poststed>OSLO</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Private aksjeselskaper mv.</beskrivelse>
+<kode>2100</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Utleie av egen eller leid fast eiendom ellers</beskrivelse>
+<kode>68.209</kode>
+</naeringskode1>
+<navn>GR.LØKKA EIENDOM AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>820148592</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-12-19</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<sisteInnsendteAarsregnskap>2017</sisteInnsendteAarsregnskap>
+<stiftelsesdato>2017-11-01</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820148622" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>c/o Stig Hansson Hauerveien 149</adresse>
+<kommune>VESTBY</kommune>
+<kommunenummer>0211</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>1540</postnummer>
+<poststed>VESTBY</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Ideelle organisasjoner</beskrivelse>
+<kode>7000</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Aktiviteter i andre interesseorganisasjoner ikke nevnt annet sted</beskrivelse>
+<kode>94.991</kode>
+</naeringskode1>
+<navn>VESTBY FOTOKLUBB</navn>
+<organisasjonsform>FLI</organisasjonsform>
+<organisasjonsnummer>820148622</organisasjonsnummer>
+<orgform>
+<beskrivelse>Forening/lag/innretning</beskrivelse>
+<kode>FLI</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-03-12</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2017-11-08</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820170792" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<kommune>SNILLFJORD</kommune>
+<kommunenummer>5012</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>7257</postnummer>
+<poststed>SNILLFJORD</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Melkeproduksjon på storfe</beskrivelse>
+<kode>01.410</kode>
+</naeringskode1>
+<navn>SILJE OLSEN VOLDEN</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>820170792</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2017-12-28</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820212452" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Ul. Deveta 7</adresse>
+<land>Bulgaria</land>
+<landkode>BG</landkode>
+<poststed>9687 EZERETS, DOBRICH</poststed>
+</forretningsadresse>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Malerarbeid</beskrivelse>
+<kode>43.341</kode>
+</naeringskode1>
+<navn>DURYAS MG EOOD</navn>
+<organisasjonsform>NUF</organisasjonsform>
+<organisasjonsnummer>820212452</organisasjonsnummer>
+<orgform>
+<beskrivelse>Norskregistrert utenlandsk foretak</beskrivelse>
+<kode>NUF</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-01-11</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820213122" rel="self"/>
+<antallAnsatte>7</antallAnsatte>
+<forretningsadresse>
+<kommune>SAMNANGER</kommune>
+<kommunenummer>1242</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>5650</postnummer>
+<poststed>TYSSE</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Private aksjeselskaper mv.</beskrivelse>
+<kode>2100</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Drift av restauranter og kafeer</beskrivelse>
+<kode>56.101</kode>
+</naeringskode1>
+<navn>VARMESTUEN2 AS</navn>
+<organisasjonsform>AS</organisasjonsform>
+<organisasjonsnummer>820213122</organisasjonsnummer>
+<orgform>
+<beskrivelse>Aksjeselskap</beskrivelse>
+<kode>AS</kode>
+</orgform>
+<postadresse>
+<adresse>Kolåshøyen 29</adresse>
+<kommune>BERGEN</kommune>
+<kommunenummer>1201</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>5135</postnummer>
+<poststed>FLAKTVEIT</poststed>
+</postadresse>
+<registreringsdatoEnhetsregisteret>2018-01-09</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<stiftelsesdato>2017-12-20</stiftelsesdato>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820325052" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Urtegata 46</adresse>
+<kommune>OSLO</kommune>
+<kommunenummer>0301</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>0187</postnummer>
+<poststed>OSLO</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Godstransport på vei</beskrivelse>
+<kode>49.410</kode>
+</naeringskode1>
+<navn>ONPOINT XHEDEON MATA</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>820325052</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-01-29</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>J</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>N</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+<enhet>
+<atom:link href="http://data.brreg.no/enhetsregisteret/enhet/820383192" rel="self"/>
+<antallAnsatte>0</antallAnsatte>
+<forretningsadresse>
+<adresse>Råbukkvegen 2</adresse>
+<kommune>NES</kommune>
+<kommunenummer>0236</kommunenummer>
+<land>Norge</land>
+<landkode>NO</landkode>
+<postnummer>2160</postnummer>
+<poststed>VORMSUND</poststed>
+</forretningsadresse>
+<institusjonellSektorkode>
+<beskrivelse>Personlig næringsdrivende</beskrivelse>
+<kode>8200</kode>
+</institusjonellSektorkode>
+<konkurs>N</konkurs>
+<maalform>Bokmål</maalform>
+<naeringskode1>
+<beskrivelse>Husdyrhold ellers</beskrivelse>
+<kode>01.490</kode>
+</naeringskode1>
+<navn>SLEMDAL BIRØKT</navn>
+<organisasjonsform>ENK</organisasjonsform>
+<organisasjonsnummer>820383192</organisasjonsnummer>
+<orgform>
+<beskrivelse>Enkeltpersonforetak</beskrivelse>
+<kode>ENK</kode>
+</orgform>
+<registreringsdatoEnhetsregisteret>2018-02-05</registreringsdatoEnhetsregisteret>
+<registrertIForetaksregisteret>N</registrertIForetaksregisteret>
+<registrertIFrivillighetsregisteret>N</registrertIFrivillighetsregisteret>
+<registrertIMvaregisteret>J</registrertIMvaregisteret>
+<registrertIStiftelsesregisteret>N</registrertIStiftelsesregisteret>
+<underAvvikling>N</underAvvikling>
+<underTvangsavviklingEllerTvangsopplosning>N</underTvangsavviklingEllerTvangsopplosning>
+</enhet>
+</data>
+<page size="30" page="0"/>
+</resources>

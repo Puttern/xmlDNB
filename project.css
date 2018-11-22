@@ -1,0 +1,22 @@
+/* CSS Document */
+html, body{
+  padding: 0;
+  margin: 0;
+}
+
+table {
+    border-collapse:collapse;
+}
+table, th, td {border:solid 1px black;}
+th, td {padding-left:3px;}
+
+#dnb{
+  margin: 0;
+  padding: 0;
+}
+
+#brregister{
+  margin: 0;
+  padding: 0;
+  float: right;
+}
